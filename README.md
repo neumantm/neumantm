@@ -20,6 +20,7 @@ Programming languages I currently use most:
 - Python
 - Go
 - Jetbrains MPS
+- Typescript (for [Langium](https://langium.org/))
 
 Some areas of especial interest for me:
 
