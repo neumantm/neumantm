@@ -3,7 +3,7 @@
 my name is Tim Neumann (he/him).
 
 I'm a Software Engineer based in Germany, Stuttgart.
-I'm currently finishing my masters in Software Engineering.
+I'm currently working as a Software Development Engineer @ Vector Informatik.
 
 I also do quite a lot of Ops as a volunteer for various organizations.
 There I mainly use:
@@ -20,7 +20,6 @@ Programming languages I currently use most:
 - Python
 - Go
 - Jetbrains MPS
-- Typescript (for [Langium](https://langium.org/))
 
 Some areas of especial interest for me:
 
