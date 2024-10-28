@@ -19,6 +19,7 @@ Programming languages I currently use most:
 
 - Python
 - Go
+- Kotlin
 - Jetbrains MPS
 
 Some areas of especial interest for me:
